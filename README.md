@@ -1,1 +1,5 @@
 # Assignment-3.1
+hours= input("enter hours= ")
+rate= input("enter rate= ")
+pay = int(hours)*float(rate)
+print("the pay to be given is= ",pay)
